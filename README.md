@@ -1,3 +1,4 @@
+<img position="top" align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">          
 <h1 align="center">Hi 👋, I'm Edvinas Bureika</h1>
 <h3 align="center">A passionate developer and reverse engineer from Lithuania</h3>
 <img align="right" height="300" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
