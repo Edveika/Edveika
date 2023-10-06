@@ -5,7 +5,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=flat" alt="edveika" /> </p>
 
-- 🔭 I’m currently working on [cs50's course](https://github.com/Edveika/cs50)
+- 🔭 I’m currently working on [**cs50's course**](https://github.com/Edveika/cs50)
 
 - 🌱 I’m currently learning **new languages**
 
