@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/edveika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edveika" height="30" width="40" /></a>
 <a href="https://t.me/edveika" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="edveika" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/edvinas bureika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvinas bureika" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edvinas-bureika-815575294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvinas bureika" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22691622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22691622" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/edveika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edveika" height="30" width="40" /></a>
 </p>
