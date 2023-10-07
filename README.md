@@ -5,11 +5,17 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=flat" alt="edveika" /> </p>
 
-- 🔭 I’m currently working on [**cs50's course**](https://github.com/Edveika/cs50)
+<h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **new languages**
+- 🔭 I’m currently working on: [**cs50's course**](https://github.com/Edveika/cs50)
 
-- 💬 Ask me about **Game/app development, game reverse engineering**
+- 🌱 I’m currently learning: **new languages**
+
+- 💥 My interests: **Game and app development, reverse engineering**
+
+- ⚡ Fun fact: **I started coding in 5th grade.**
+
+<h3 align="left">Contacts</h3>
 
 - 📫 My GMAIL **edvinasbureika@gmail.com**
 
@@ -17,12 +23,10 @@
 
 - 👾 My discord username: **@edveika**
 
-- ⚡ Fun fact **I started coding in 5th grade.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/edveika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edveika" height="30" width="40" /></a>
 <a href="https://t.me/edveika" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="edveika" height="30" width="30" /></a>
+<a href="https://signal.group/#CjQKIG4DNY7pgxqq8MVYfX4pqxB9mL4Sg35FgXpAbX7wMvF5EhA7Ek9gwHJHCbAjsZuj81E6" target="blank"><img align="center" src="https://signal.org/assets/favicon/ms-icon-144x144-c87fa9bc9f7648a5dc55c8bb767caa2c9f3ff5d13dbdce9eb82e75e14ebe41d9.png" alt="edveika" height="30" width="30"/></a>
 <a href="https://www.linkedin.com/in/edvinas-bureika-815575294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvinas bureika" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22691622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22691622" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/edveika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edveika" height="30" width="40" /></a>
