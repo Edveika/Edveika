@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer and reverse engineer from Lithuania</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=flat" alt="edveika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="edveika" /> </p>
 
 <h3 align="left">About me</h3>
 
