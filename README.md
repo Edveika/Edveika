@@ -26,8 +26,6 @@
 <p align="left">
 <a href="https://twitter.com/edveika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edveika" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Edveika" target="blank"><img align="center" src="https://www.redditstatic.com/desktop2x/img/favicon/ms-icon-144x144.png" alt="edveika" height="30" width="30" /></a>
-
-
 <a href="https://matrix.to/#/@edveika:matrix.org" target="blank"><img align="center" src="https://element.io/images/favicon.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://t.me/edveika" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://signal.group/#CjQKIG4DNY7pgxqq8MVYfX4pqxB9mL4Sg35FgXpAbX7wMvF5EhA7Ek9gwHJHCbAjsZuj81E6" target="blank"><img align="center" src="https://signal.org/assets/favicon/ms-icon-144x144-c87fa9bc9f7648a5dc55c8bb767caa2c9f3ff5d13dbdce9eb82e75e14ebe41d9.png" alt="edveika" height="30" width="30"/></a>
