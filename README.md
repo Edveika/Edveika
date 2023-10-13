@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: [**cs50's course**](https://github.com/Edveika/cs50)
 
-- 🌱 I’m currently learning: **new languages**
+- 🌱 I’m currently learning: **new languages, frameworks and algorithms**
 
 - 💥 My interests: **Game and app development, reverse engineering**
 
