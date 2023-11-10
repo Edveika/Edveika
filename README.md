@@ -25,13 +25,10 @@
 <a href="https://github.com/Edveika" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://gitlab.com/Edveika" target="blank"><img align="center" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://bitbucket.org/edveika" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="edveika" height="30" width="30" /></a>
-<a href="https://twitter.com/edveika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edveika" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Edveika" target="blank"><img align="center" src="https://www.redditstatic.com/desktop2x/img/favicon/ms-icon-144x144.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://matrix.to/#/@edveika:matrix.org" target="blank"><img align="center" src="https://element.io/images/favicon.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://t.me/edveika" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="edveika" height="30" width="30" /></a>
 <a href="https://signal.group/#CjQKIG4DNY7pgxqq8MVYfX4pqxB9mL4Sg35FgXpAbX7wMvF5EhA7Ek9gwHJHCbAjsZuj81E6" target="blank"><img align="center" src="https://signal.org/assets/favicon/ms-icon-144x144-c87fa9bc9f7648a5dc55c8bb767caa2c9f3ff5d13dbdce9eb82e75e14ebe41d9.png" alt="edveika" height="30" width="30"/></a>
 <a href="https://www.linkedin.com/in/edvinas-bureika-815575294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvinas bureika" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22691622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22691622" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that I have used:</h3>
