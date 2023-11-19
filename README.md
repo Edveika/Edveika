@@ -1,7 +1,8 @@
-<img position="top" align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">          
+<img position="top" align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">          
 <h1 align="center">Hi 👋, I'm Edvinas Bureika</h1>
 <h3 align="center">A passionate developer and reverse engineer from Lithuania</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
+<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="edveika" /> </p>
 
