@@ -8,7 +8,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning: **New languages, frameworks, algorithms and other cool stuff**
+- 🌱 I’m currently learning: **New languages, frameworks, algorithms, other cool stuff**
 
 - 💥 My interests: **Programming, reverse engineering**
 
