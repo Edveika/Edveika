@@ -6,10 +6,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="edveika" /> </p>
 
-<a href="https://github.com/Edveika" target="blank"><img align="center" src="https://githubo/fluidicon.png" alt="github" height="30" width="30" /></a>
-<a href="https://gitlab.com/Edveika" target="blank"><img align="center" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" alt="gitlab" height="30" width="30" /></a>
-<a href="https://bitbucket.org/edveika" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket" height="30" width="30" /></a>
-
 <h3 align="left">About me</h3>
 
 - 🌱 I’m currently learning: **New languages, frameworks and algorithms**
