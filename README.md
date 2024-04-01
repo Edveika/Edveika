@@ -1,5 +1,5 @@
 <img position="top" align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">          
-<h1 align="center">Hi 👋, I'm 4 3 21 4 8 10 0</h1>
+<h1 align="center">👑 I'm 4 3 21 4 8 10 0 👑</h1>
 <h3 align="center">IT guy from Lithuania that enjoys challanges</h3>
 <h3 align="center">Think you have any challenges for me? Bring it on. I thrive on conquering the impossible.</h3>
 
