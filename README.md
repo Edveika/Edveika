@@ -39,12 +39,14 @@
 - 🖥 Monitors: 2x AOC 27g2u 144hz, Samsung TV, Laptop monitor
   
 - ⌨️ Keyboard: Red Dragon K530 RGB 60%, brown switches
+
+- 🖱 Mouse: Some wireless Asus mouse
   
 - 💿 OS: Ubuntu
   
 - 🧝🏻‍♀️ DE: Gnome
   
-- 📝 Main IDE: Visual Studio Code
+- 📝 IDE: Visual Studio Code
 
 <br>
 
