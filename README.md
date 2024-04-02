@@ -3,10 +3,12 @@
 <h3 align="center">IT guy from Lithuania that enjoys challanges</h3>
 <h3 align="center">Think you have any challenges for me? Bring it on. I thrive on conquering the impossible.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="edveika" /> </p>
+<p align="center">
+  <img width="21%" height="20%" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+</p>
 
-<img align="left" width="21%" height="20%" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=transparent&hide_border=true" alt="edveika" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="edveika" /> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=transparent&hide_border=true" alt="edveika" /></p>
 
 <br>
 
