@@ -11,17 +11,23 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="edveika" /> </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=merko&hide_border=true" alt="edveika" /></p>
 
-<br>
-
 <h3 align="left">👤 About me</h3>
 
 - 🌱 I’m currently learning: **New languages, frameworks, algorithms, technologies**
-
+  
 - 💥 My interests: **Programming, reverse engineering**
-
+  
 - ⚡ Fun fact: **I started coding in 5th grade.**
 
-- 📭 My email: [edvinasbureika@gmail.com](mailto:edvinasbureika@gmail.com)
+<br>
+
+<h3 align="left">📭 Contact me</h3>
+
+- 📧 My email: [edvinasbureika@gmail.com](mailto:edvinasbureika@gmail.com)
+
+- 🌐 LinkedIn: [edveika](https://www.linkedin.com/in/edveika)
+
+<br>
 
 <h3 align="left">🚀 My setup</h3>
 
@@ -29,11 +35,18 @@
   * AMD Ryzen 7 5800U 8 cores 16 threads
   * 16GB RAM
   * 1TB M.2 SSD
+    
 - 🖥 Monitors: 2x AOC 27g2u 144hz, Samsung TV, Laptop monitor
+  
 - ⌨️ Keyboard: Red Dragon K530 RGB 60%, brown switches
+  
 - 💿 OS: Ubuntu
+  
 - 🧝🏻‍♀️ DE: Gnome
+  
 - 📝 Main IDE: Visual Studio Code
+
+<br>
 
 <h3 align="left">🏗️ Languages</h3>
 <p align="left"> 
