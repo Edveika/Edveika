@@ -13,7 +13,7 @@
 
 <br>
 
-<h3 align="left">About me</h3>
+<h3 align="left">👤 About me</h3>
 
 - 🌱 I’m currently learning: **New languages, frameworks, algorithms, technologies**
 
@@ -23,7 +23,7 @@
 
 - 📭 My email: [edvinasbureika@gmail.com](mailto:edvinasbureika@gmail.com)
 
-<h3 align="left">My setup</h3>
+<h3 align="left">🚀 My setup</h3>
 
 - 💻 Laptop: IdeaPad 5 Pro 14ACN6
   * AMD Ryzen 7 5800U 8 cores 16 threads
@@ -31,11 +31,11 @@
   * 1TB M.2 SSD
 - 🖥 Monitors: 2x AOC 27g2u 144hz, Samsung TV, Laptop monitor
 - ⌨️ Keyboard: Red Dragon K530 RGB 60%, brown switches
-- ⚙️ OS: Ubuntu
+- 💿 OS: Ubuntu
 - 🧝🏻‍♀️ DE: Gnome
 - 📝 Main IDE: Visual Studio Code
 
-<h3 align="left">Languages</h3>
+<h3 align="left">🏗️ Languages</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP icon" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 icon" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino icon" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">⚙️ Technologies</h3>
 <p align="left"> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" alt="SQLite icon" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noreferrer"> <img src="https://archive.org/download/dxmweb/directx.jpg" alt="DirectX icon" width="40" height="40"/> </a> 
@@ -54,7 +54,7 @@
   <a href="https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/microsoft/microsoft_PNG13.png" alt="Windows API" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">🛠️ Tools</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code icon" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="VS icon" width="40" height="40"/> </a> 
