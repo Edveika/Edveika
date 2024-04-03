@@ -1,8 +1,10 @@
 # 🤓 CodeAcademyKids: HTML5 and CSS3 fundamentals
 
+![image](https://github.com/Edveika/Edveika/assets/113787144/44b00a13-ec35-4a8e-a090-8133e8ca2525)
+
 🧑‍🏫 Instructor: CodeAcademyKids staff
 
-🗃️Github repo: [CodeAcademyKids](https://github.com/Edveika/Code-Academy-Kids-HTML)
+🗃️ Github repo: [CodeAcademyKids](https://github.com/Edveika/Code-Academy-Kids-HTML)
 
 # 🤩 Udemy: Build Responsive Real-World Websites with HTML5 and CSS3
 
