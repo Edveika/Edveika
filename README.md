@@ -13,11 +13,15 @@
 
 <h3 align="left">👤 About me</h3>
 
-- 🌱 I’m currently learning: **New languages, frameworks, algorithms, technologies**
-  
-- 💥 My interests: **Programming, reverse engineering**
-  
-- ⚡ Fun fact: **I started coding in 5th grade.**
+- 📚 Self-taught
+
+- 👨‍💻 Coding since the 5th grade
+
+- 🌟 I like to try out new things
+
+- 💼 Portfolio site: [coming soon](#)
+
+- 📜 Certificates: [certs-repo](https://github.com/Edveika/Edveika/blob/main/Certs/certs.md)
 
 <br>
 
