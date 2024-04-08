@@ -29,7 +29,7 @@
 
 - 📧 My email: [edvinasbureika@gmail.com](mailto:edvinasbureika@gmail.com)
 
-- 🌐 LinkedIn: [edveika](https://www.linkedin.com/in/edveika)
+- 🌐 LinkedIn: [Edvinas Bureika(Edveika)](https://www.linkedin.com/in/edveika)
 
 <br>
 
