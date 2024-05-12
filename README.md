@@ -1,4 +1,4 @@
-<img position="top" align="center" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">    
+<img position="top" align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">    
 
 <h1 align="center">👑 I'm 4 3 21 4 8 10 0 👑</h1>
 <h3 align="center">IT guy from Lithuania that enjoys challanges</h3>
