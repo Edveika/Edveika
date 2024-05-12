@@ -1,16 +1,15 @@
-<img position="top" align="center" src="https://github.com/Edveika/Edveika/assets/113787144/a29d4cce-0679-492d-b22d-584e1350dad0">    
+<img position="top" align="center" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">    
 
 <h1 align="center">👑 I'm 4 3 21 4 8 10 0 👑</h1>
 <h3 align="center">IT guy from Lithuania that enjoys challanges</h3>
 <h3 align="center">Think you have any challenges for me? Bring it on. I thrive on conquering the impossible.</h3>
 
 <p align="center">
-
-  <img width="21%" height="20%" src="https://github.com/Edveika/Edveika/assets/113787144/b52aac7e-152b-4832-a39f-28842afd1b53">
+  <img width="20%" height="25%" src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU1NDY1NjUsIm5iZiI6MTcxNTU0NjI2NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEyVDIwMzc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0YTg1OWM3OTQwNzk4NWU2ODU1OWE2ZjM3NDAwNGQzMzU1ZmNkMTFiNDI2MzAyODViZGY5NjVhZWMzYTM3M2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.trmDKpmTxtJNgmXwRpKdrwHteU4m6LHz-GTsYt4Kkss">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="edveika" /> </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=merko&hide_border=true" alt="edveika" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=orange" alt="edveika" /> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=dark&hide_border=true" alt="edveika" /></p>
 
 <h3 align="left">👤 About me</h3>
 
