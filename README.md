@@ -46,7 +46,7 @@
 
 - 🖱 Mouse: Some wireless Asus mouse
   
-- 💿 OS: Ubuntu
+- 💿 OS: Fedora
   
 - 🧝🏻‍♀️ DE: Gnome
   
