@@ -1,4 +1,6 @@
-<img position="top" align="center" src="https://camo.githubusercontent.com/f68e1dadfdb6904f8320b8f20e1794d39efeb536fbe9b5d9891a64e5bb730b0a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966">    
+<p align="center">
+  <img src="https://github.com/Edveika/Edveika/assets/113787144/82300195-22f6-4111-892e-4af0c8a2a55e">      
+</p>
 
 <h1 align="center">👑 I'm 4 3 21 4 8 10 0 👑</h1>
 <h3 align="center">IT guy from Lithuania that enjoys challanges</h3>
