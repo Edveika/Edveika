@@ -29,7 +29,7 @@
 
 <h3 align="left">📭 Contact me</h3>
 
-- 📧 My email: [edveika@proton.me](mailto:edveika@proton.me)
+- 📧 My email: [edvinasbureika@gmail.com](mailto:edvinasbureika@gmail.com)
 
 <br>
 
