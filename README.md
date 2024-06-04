@@ -29,9 +29,7 @@
 
 <h3 align="left">📭 Contact me</h3>
 
-- 📧 My email: [edvinasbureika@gmail.com](mailto:edvinasbureika@gmail.com)
-
-- 🌐 LinkedIn: [Edvinas Bureika(Edveika)](https://www.linkedin.com/in/edveika)
+- 📧 My email: [edveika@proton.me](mailto:edveika@proton.me)
 
 <br>
 
