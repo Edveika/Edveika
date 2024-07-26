@@ -10,8 +10,8 @@
   <img width="20%" height="25%" src="https://github.com/Edveika/Edveika/assets/113787144/df2048d5-eff0-4dc8-af0e-d3bb9e47b064">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=yellow" alt="edveika" /> </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=halloween&hide_border=true&background=00000000"" alt="edveika" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edveika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="edveika" /> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edveika&theme=merko&hide_border=true" alt="edveika" /></p>
 
 <h3 align="left">👤 About me</h3>
 
