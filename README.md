@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Edveika/Edveika/assets/113787144/82300195-22f6-4111-892e-4af0c8a2a55e">      
+  <img position="top" align="center" src="https://github.com/Edveika/Edveika/assets/113787144/a29d4cce-0679-492d-b22d-584e1350dad0">     
 </p>
 
 <h1 align="center">👑 I'm 4 3 21 4 8 10 0 👑</h1>
